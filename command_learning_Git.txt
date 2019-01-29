@@ -1,0 +1,4 @@
+git add <filename>
+get commit -m "update Lecture2"
+git push origin master
+git status
