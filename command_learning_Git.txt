@@ -2,3 +2,9 @@ git add <filename>
 get commit -m "update Lecture2"
 git push origin master
 git status
+
+
+#commit: track the changes
+#push: upload it 
+#origin: the place you get it from
+#master: the branch name 
