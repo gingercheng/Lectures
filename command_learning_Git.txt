@@ -8,3 +8,10 @@ git status
 #push: upload it 
 #origin: the place you get it from
 #master: the branch name 
+
+git remote -v : list the address you can download/upload things
+git remote add <upstream> <address>: add the branch address for you to download/upload things
+# git remote -v again to see all the address
+git fetch <upstream> : fetch things from the new address
+git checkout master : change branches to the goal address branch
+git merge <upstream/master> : download everything not that is not on your own directory   
