@@ -1,0 +1,5 @@
+pwd : where you are now
+ls : list all files
+cd : go to the directory ( can use tab to complete everthing ; use the arrow key to go to the previous command )
+
+
