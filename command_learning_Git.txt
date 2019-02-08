@@ -14,4 +14,9 @@ git remote add <upstream> <address>: add the branch address for you to download/
 # git remote -v again to see all the address
 git fetch <upstream> : fetch things from the new address
 git checkout master : change branches to the goal address branch
-git merge <upstream/master> : download everything not that is not on your own directory   
+git merge <upstream/master> : download everything not that is not on your own directory  
+
+#if there's something in jupyter changed and want to copy the changes to local computer, do this:
+git pull
+
+ 
